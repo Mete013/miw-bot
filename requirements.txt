@@ -1,1 +1,1 @@
-pytelegrambotapi --upgrade
+pytelegrambotapi
